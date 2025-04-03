@@ -19,7 +19,7 @@ nav: Program
 | *16:30*     | *Coffee Break*                                                           | -                                |
 | **17:00**   | **Session II: Auditing and Benchmarks** |                                  |
 | 17:00       | The Benchmark Trap: Power and Influence in AI Evaluations | Jason, Branford, Angelie Kraft   | |
-| 17:10       | Query-Efficient Active Fairness Auditing for Black-Box Language Models | David Hartmann                   |
+| 17:10       | Query-Efficient Active Fairness Auditing for Black-Box Language Models | David Hartmann, Lena Pohlmann                 |
 | 17:20       | Towards Silicon Servants: Gaps and Potential in Agent Benchmarks | Jonathan Rystrøm                 |
 | 17:30       | Knowledge Co-Production in Socio-Technical Epistemic Systems | Lea Stöter                       |
 | 18:00       | Shared Discussion                                                      | -                                |
