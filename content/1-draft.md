@@ -1,6 +1,6 @@
 ---
 title: Empty Page
-nav: draft
+nav: Draft
 ---
 ## Title
 
