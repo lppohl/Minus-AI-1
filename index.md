@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-{% include figure.html img="image.png" alt="discription of image" caption="" width="100%" %}
+{% include figure.html img="image.png" alt="discription of image" caption="" width="150%" %}
 
 # Minus AI
 
