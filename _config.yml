@@ -15,7 +15,7 @@ title: Minus-AI
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: 
+title-icon: cpu
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "A library of educational and practical resources supporting environmentally responsible AI (non-)use, specifically in human-computer-interaction (HCI)."
