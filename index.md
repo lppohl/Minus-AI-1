@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-{% include figure.html img="uidaho-workshop.jpg" alt="discription of image" caption="" width="50%" %}
+{% include figure.html img="image.png" alt="discription of image" caption="" width="50%" %}
 
 # A library of educational and practical resources supporting environmentally responsible AI (non-)use, specifically in human-computer-interaction (HCI).
 <br>
